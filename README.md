@@ -1,6 +1,6 @@
-# Pytorch-Image-Classificaiton-TransferLearning
+# Pytorch-Image-Classificaiton-using-Transfer-Learning
  Transfer Learning in Image Classification using pytorch
  
  
  
- I used car dataset from AIHUB (http://www.aihub.or.kr/)
+You can use your own dataset
